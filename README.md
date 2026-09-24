@@ -1,6 +1,6 @@
 <!-- Header Banner Gambar Space Neon -->
 <p align="center">
-  <img src="header.jpg" width="100%" alt="HI, I'M SHASIZK Header Banner" />
+  <img src="header1.jfif" width="100%" alt="HI, I'M SHASIZK Header Banner" />
 </p>
 
 ### ⚡ About Me
