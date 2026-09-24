@@ -1,5 +1,6 @@
+<!-- Header Banner Gambar Space Neon -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shasizk/shasizk/main/header.jpeg" width="100%" alt="HI, I'M SHASIZK Header Banner" />
+  <img src="header.jpg" width="100%" alt="HI, I'M SHASIZK Header Banner" />
 </p>
 
 <p align="center">
