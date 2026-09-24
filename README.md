@@ -3,15 +3,9 @@
   <img src="header.jpg" width="100%" alt="HI, I'M SHASIZK Header Banner" />
 </p>
 
-<p align="center">
-  <b>A passionate developer building digital experiences & exploring servers. 🚀</b>
-</p>
-
----
-
 ### ⚡ About Me
 
-* 🎯 **Fokus kerja saat ini:** Full-Stack development & Linux Server Administration.
+* 🎯 **Fokus:** Frontend - Backend Development & Linux Server Administration.
 * 🎨 **Ketertarikan:** UI/UX Design, Server Configuration, dan modern web app performance.
 * 🚀 **Sedang mendalami:** Linux Server Setup (Ubuntu/Debian), Nginx/Apache, DNS, & Docker.
 
@@ -29,8 +23,8 @@
 
 | Project Name | Description | Tech Stack | Link / Demo |
 | :--- | :--- | :--- | :---: |
-| **Project 1** | Penjelasan singkat mengenai sistem/aplikasi yang kamu buat | `React` `Tailwind` | [View Demo](#) |
-| **Project 2** | Penjelasan singkat project backend / API | `Node.js` `PostgreSQL` | [GitHub](#) |
+| **Bengkel Mobil Online** | Penjelasan singkat mengenai sistem/aplikasi yang kamu buat | `React` `Tailwind` | [View Demo](#) |
+| **Smart Lock Inventoy Monitoring System** | Penjelasan singkat project backend / API | `Node.js` `PostgreSQL` | [GitHub](#) |
 | **Linux Server Lab** | Konfigurasi Web Server, Reverse Proxy (Nginx), & DNS | `Linux` `Ubuntu` `Nginx` | [Notes / Guide](#) |
 | **Portfolio Website** | Personal portfolio website untuk menampilkan karya | `Next.js` `Tailwind` | [Visit](#) |
 
