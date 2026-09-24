@@ -1,10 +1,9 @@
-<!-- Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=HI,%20I'M%20SHASIZK%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/shasizk/shasizk/main/header.jpg" width="100%" alt="HI, I'M SHASIZK Header Banner" />
 </p>
 
 <p align="center">
-  <b>A passionate developer building digital experiences & exploring servers.</b>
+  <b>A passionate developer building digital experiences & exploring servers. 🚀</b>
 </p>
 
 ---
