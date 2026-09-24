@@ -1,70 +1,54 @@
-<!-- Header Banner / Image -->
+<!-- Header Simple & Clean -->
+<h1 align="center">Hi, I'm shasizk 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=40" width="100%" />
+  <b>Software Engineer & Digital Creator</b><br>
+  <sub>Building sleek web experiences & functional digital products</sub>
 </p>
 
-<!-- Link Portfolio / Website -->
 <p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://linkedin.com/in/shasizk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shasizk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shasizk@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<br>
+---
 
-### 🚀 FEATURED PROJECTS
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **Project 1** | Penjelasan singkat projek kamu | `HTML` `CSS` `JS` | [Demo](#) |
-| **Project 2** | Penjelasan singkat projek kamu | `PHP` `MySQL` | [Demo](#) |
+### 📌 About Me
+* 💼 Currently focusing on **Full-Stack Development** and **UI/UX Design**.
+* 🎯 Passionate about clean code, performance optimization, and minimalist interfaces.
+* ☕ Powered by iced coffee and continuous learning.
 
-<br>
+---
 
-### 🛠 Tech Stack & Badges
+### ⚡ Technical Skills
 
-**Web Development & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+**Languages & Frameworks**  
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `HTML5/CSS3` `Tailwind CSS`
+
+**Tools & Databases**  
+`Git` `GitHub` `PostgreSQL` `MySQL` `Docker` `Figma` `VS Code`
+
+---
+
+### 🚀 Selected Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Sasaa](#)** | Clean design system & UI component library. | `React` `Tailwind` |
+| **[Cisaw](#)** | Minimalist dashboard for data visualization. | `Next.js` `TypeScript` |
+| **[Sabots](#)** | Automated workflow script for web scraping. | `Python` `Node.js` |
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shasizk&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shasizk&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" width="48%" />
 </p>
-
-**Python & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-**Database & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<br>
-
-### 🌐 CONNECT WITH ME
-<p>
-  <a href="https://linkedin.com/in/username" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>al_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
