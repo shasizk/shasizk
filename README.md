@@ -45,13 +45,13 @@
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/shasizk" target="_blank">
+  <a href="[https://linkedin.com/in/shasizk](https://www.linkedin.com/in/raysha-ulima-hakim-0898753ab?trk=contact-info)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/shasizk" target="_blank">
+  <a href="[https://instagram.com/shasizk](https://www.instagram.com/shasizk._?stkn=MWc2eHRqMjI2bnB3dg==)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:shasizk@example.com">
+  <a href="mailto:rayshahakim290@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
