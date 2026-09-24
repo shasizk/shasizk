@@ -33,8 +33,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shasizk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shasizk&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shasizk&theme=onedark&no-frame=true&column=4" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shasizk&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
